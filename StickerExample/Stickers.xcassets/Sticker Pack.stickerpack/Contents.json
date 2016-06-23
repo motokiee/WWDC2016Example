@@ -1,0 +1,65 @@
+{
+  "stickers" : [
+    {
+      "filename" : "revolcam_watch.sticker"
+    },
+    {
+      "filename" : "icon9.sticker"
+    },
+    {
+      "filename" : "icon10.sticker"
+    },
+    {
+      "filename" : "icon11.sticker"
+    },
+    {
+      "filename" : "__icon.sticker"
+    },
+    {
+      "filename" : "star_disabled@2x.sticker"
+    },
+    {
+      "filename" : "Icon.sticker"
+    },
+    {
+      "filename" : "star@2x.sticker"
+    },
+    {
+      "filename" : "icon_template_watchOS__.sticker"
+    },
+    {
+      "filename" : "FocusImage@2x.sticker"
+    },
+    {
+      "filename" : "icon6.sticker"
+    },
+    {
+      "filename" : "icon7.sticker"
+    },
+    {
+      "filename" : "icon_template_watchOS.sticker"
+    },
+    {
+      "filename" : "icon3.sticker"
+    },
+    {
+      "filename" : "icon8.sticker"
+    },
+    {
+      "filename" : "icon5.sticker"
+    },
+    {
+      "filename" : "icon2.sticker"
+    },
+    {
+      "filename" : "icon4.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  }
+}
